@@ -71,6 +71,7 @@ def add_s(array)
   end
 end
 
+# EXPLANATION
 
 # So, whatever our block returns, map will add to the array
 # So, if our if statement condition is truthy, then element << "s" will be added to the array
