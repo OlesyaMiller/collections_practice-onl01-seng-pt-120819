@@ -71,6 +71,17 @@ def add_s(array)
   end
 end
 
+Kevin Webster 7 MINUTES AGO
+So, whatever our block returns, map will add to the array
+User avatar
+Kevin Webster 7 MINUTES AGO
+So, if our if statement condition is truthy, then element << "s" will be added to the array
+User avatar
+Kevin Webster 7 MINUTES AGO
+If the if statement condition is falsey, then nil will be added to the array, since our block would not return anything in that case
+User avatar
+Kevin Webster 5 MINUTES AGO
+So, what we want to do is if our if statement condition is falsey, we want to return element
 
 
 
